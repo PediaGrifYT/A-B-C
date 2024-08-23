@@ -1,1 +1,12 @@
 https://drive.google.com/drive/folders/14Jnx5iYzVJFgi90Xy5NlR8NznOH3eqIH
+
+/*fun main(){
+    print("hello world")
+}*/
+
+/*const val Stable : String = "KT"//we can use this const value in any of function but we should declare const at only at out of the main function or function, and if we use const use only val
+const val Number : Int = 97810200//we can use this const value in any of function but we should declare const at only at out of the main function or function, and if we use const use only val
+fun main(){
+    println(Stable)
+    print(Number)
+}*/
